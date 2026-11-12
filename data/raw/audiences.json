@@ -1,0 +1,162 @@
+[
+  {
+    "audience_id":"AUD-2026-000001",
+    "audience_name":"Technology Enterprise CTO\/VP Eng",
+    "industry":"Technology",
+    "tier":"Enterprise",
+    "target_persona":"CTO\/VP Eng",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000002",
+    "audience_name":"Healthcare Mid-Market CMO\/VP Mktg",
+    "industry":"Healthcare",
+    "tier":"Mid-Market",
+    "target_persona":"CMO\/VP Mktg",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000003",
+    "audience_name":"Financial Services SMB CFO\/Finance",
+    "industry":"Financial Services",
+    "tier":"SMB",
+    "target_persona":"CFO\/Finance",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000004",
+    "audience_name":"Manufacturing Enterprise Operations Lead",
+    "industry":"Manufacturing",
+    "tier":"Enterprise",
+    "target_persona":"Operations Lead",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000005",
+    "audience_name":"Retail Mid-Market Security Lead",
+    "industry":"Retail",
+    "tier":"Mid-Market",
+    "target_persona":"Security Lead",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000006",
+    "audience_name":"Education SMB CTO\/VP Eng",
+    "industry":"Education",
+    "tier":"SMB",
+    "target_persona":"CTO\/VP Eng",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000007",
+    "audience_name":"Technology Enterprise CMO\/VP Mktg",
+    "industry":"Technology",
+    "tier":"Enterprise",
+    "target_persona":"CMO\/VP Mktg",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000008",
+    "audience_name":"Healthcare Mid-Market CFO\/Finance",
+    "industry":"Healthcare",
+    "tier":"Mid-Market",
+    "target_persona":"CFO\/Finance",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000009",
+    "audience_name":"Financial Services SMB Operations Lead",
+    "industry":"Financial Services",
+    "tier":"SMB",
+    "target_persona":"Operations Lead",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000010",
+    "audience_name":"Manufacturing Enterprise Security Lead",
+    "industry":"Manufacturing",
+    "tier":"Enterprise",
+    "target_persona":"Security Lead",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000011",
+    "audience_name":"Retail Mid-Market CTO\/VP Eng",
+    "industry":"Retail",
+    "tier":"Mid-Market",
+    "target_persona":"CTO\/VP Eng",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000012",
+    "audience_name":"Education SMB CMO\/VP Mktg",
+    "industry":"Education",
+    "tier":"SMB",
+    "target_persona":"CMO\/VP Mktg",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000013",
+    "audience_name":"Technology Enterprise CFO\/Finance",
+    "industry":"Technology",
+    "tier":"Enterprise",
+    "target_persona":"CFO\/Finance",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000014",
+    "audience_name":"Healthcare Mid-Market Operations Lead",
+    "industry":"Healthcare",
+    "tier":"Mid-Market",
+    "target_persona":"Operations Lead",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000015",
+    "audience_name":"Financial Services SMB Security Lead",
+    "industry":"Financial Services",
+    "tier":"SMB",
+    "target_persona":"Security Lead",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000016",
+    "audience_name":"Manufacturing Enterprise CTO\/VP Eng",
+    "industry":"Manufacturing",
+    "tier":"Enterprise",
+    "target_persona":"CTO\/VP Eng",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000017",
+    "audience_name":"Retail Mid-Market CMO\/VP Mktg",
+    "industry":"Retail",
+    "tier":"Mid-Market",
+    "target_persona":"CMO\/VP Mktg",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000018",
+    "audience_name":"Education SMB CFO\/Finance",
+    "industry":"Education",
+    "tier":"SMB",
+    "target_persona":"CFO\/Finance",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000019",
+    "audience_name":"Technology Enterprise Operations Lead",
+    "industry":"Technology",
+    "tier":"Enterprise",
+    "target_persona":"Operations Lead",
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "audience_id":"AUD-2026-000020",
+    "audience_name":"Healthcare Mid-Market Security Lead",
+    "industry":"Healthcare",
+    "tier":"Mid-Market",
+    "target_persona":"Security Lead",
+    "created_at":"2026-01-01 00:00:00"
+  }
+]

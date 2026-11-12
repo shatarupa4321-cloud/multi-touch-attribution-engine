@@ -1,0 +1,2418 @@
+[
+  {
+    "creative_id":"CRT-2026-000001",
+    "campaign_id":"CMP-2026-000001",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-006_0019_1",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-02-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000002",
+    "campaign_id":"CMP-2026-000001",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-006_0019_1",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000003",
+    "campaign_id":"CMP-2026-000001",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-006_0019_1",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-02-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000004",
+    "campaign_id":"CMP-2026-000002",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-004_0008_2",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-01 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000005",
+    "campaign_id":"CMP-2026-000002",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-004_0008_2",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-01 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000006",
+    "campaign_id":"CMP-2026-000003",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-004_0007_3",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000007",
+    "campaign_id":"CMP-2026-000003",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-004_0007_3",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000008",
+    "campaign_id":"CMP-2026-000003",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-004_0007_3",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000009",
+    "campaign_id":"CMP-2026-000003",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-004_0007_3",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000010",
+    "campaign_id":"CMP-2026-000004",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-002_0007_4",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000011",
+    "campaign_id":"CMP-2026-000004",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-002_0007_4",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000012",
+    "campaign_id":"CMP-2026-000004",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-002_0007_4",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000013",
+    "campaign_id":"CMP-2026-000004",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-002_0007_4",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000014",
+    "campaign_id":"CMP-2026-000005",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-008_0001_5",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-17 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000015",
+    "campaign_id":"CMP-2026-000005",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-008_0001_5",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-17 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000016",
+    "campaign_id":"CMP-2026-000006",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-006_0016_6",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000017",
+    "campaign_id":"CMP-2026-000006",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-006_0016_6",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000018",
+    "campaign_id":"CMP-2026-000006",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-006_0016_6",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000019",
+    "campaign_id":"CMP-2026-000007",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-008_0003_7",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000020",
+    "campaign_id":"CMP-2026-000007",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-008_0003_7",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000021",
+    "campaign_id":"CMP-2026-000007",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-008_0003_7",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000022",
+    "campaign_id":"CMP-2026-000008",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-006_0004_8",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-23 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000023",
+    "campaign_id":"CMP-2026-000008",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-006_0004_8",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-23 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000024",
+    "campaign_id":"CMP-2026-000009",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-002_0014_9",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-02-28 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000025",
+    "campaign_id":"CMP-2026-000009",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-002_0014_9",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-28 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000026",
+    "campaign_id":"CMP-2026-000009",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-002_0014_9",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-28 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000027",
+    "campaign_id":"CMP-2026-000009",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-002_0014_9",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-28 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000028",
+    "campaign_id":"CMP-2026-000010",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-004_0002_10",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-10 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000029",
+    "campaign_id":"CMP-2026-000010",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-004_0002_10",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-10 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000030",
+    "campaign_id":"CMP-2026-000011",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0001_11",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000031",
+    "campaign_id":"CMP-2026-000011",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0001_11",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000032",
+    "campaign_id":"CMP-2026-000012",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-008_0016_12",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-22 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000033",
+    "campaign_id":"CMP-2026-000012",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-008_0016_12",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-22 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000034",
+    "campaign_id":"CMP-2026-000012",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-008_0016_12",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-22 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000035",
+    "campaign_id":"CMP-2026-000013",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-001_0012_13",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000036",
+    "campaign_id":"CMP-2026-000013",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-001_0012_13",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000037",
+    "campaign_id":"CMP-2026-000013",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-001_0012_13",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000038",
+    "campaign_id":"CMP-2026-000013",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-001_0012_13",
+    "call_to_action":"Learn More",
+    "created_at":"2026-01-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000039",
+    "campaign_id":"CMP-2026-000014",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-008_0002_14",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-31 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000040",
+    "campaign_id":"CMP-2026-000014",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-008_0002_14",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-31 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000041",
+    "campaign_id":"CMP-2026-000015",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-005_0017_15",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000042",
+    "campaign_id":"CMP-2026-000015",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-005_0017_15",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000043",
+    "campaign_id":"CMP-2026-000015",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-005_0017_15",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000044",
+    "campaign_id":"CMP-2026-000016",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-001_0010_16",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-01 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000045",
+    "campaign_id":"CMP-2026-000016",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-001_0010_16",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-01 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000046",
+    "campaign_id":"CMP-2026-000016",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-001_0010_16",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-01 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000047",
+    "campaign_id":"CMP-2026-000016",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-001_0010_16",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-01 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000048",
+    "campaign_id":"CMP-2026-000017",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-005_0019_17",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-17 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000049",
+    "campaign_id":"CMP-2026-000017",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-005_0019_17",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-17 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000050",
+    "campaign_id":"CMP-2026-000017",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-005_0019_17",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-17 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000051",
+    "campaign_id":"CMP-2026-000017",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-005_0019_17",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-17 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000052",
+    "campaign_id":"CMP-2026-000018",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-001_0013_18",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-07 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000053",
+    "campaign_id":"CMP-2026-000018",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-001_0013_18",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-07 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000054",
+    "campaign_id":"CMP-2026-000018",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-001_0013_18",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-07 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000055",
+    "campaign_id":"CMP-2026-000019",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-008_0011_19",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-27 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000056",
+    "campaign_id":"CMP-2026-000019",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-008_0011_19",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-27 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000057",
+    "campaign_id":"CMP-2026-000020",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-008_0009_20",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000058",
+    "campaign_id":"CMP-2026-000020",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-008_0009_20",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000059",
+    "campaign_id":"CMP-2026-000021",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-007_0018_21",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000060",
+    "campaign_id":"CMP-2026-000021",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-007_0018_21",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000061",
+    "campaign_id":"CMP-2026-000022",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-003_0005_22",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000062",
+    "campaign_id":"CMP-2026-000022",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-003_0005_22",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000063",
+    "campaign_id":"CMP-2026-000022",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-003_0005_22",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000064",
+    "campaign_id":"CMP-2026-000023",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-005_0015_23",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000065",
+    "campaign_id":"CMP-2026-000023",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-005_0015_23",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000066",
+    "campaign_id":"CMP-2026-000024",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-008_0019_24",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-04 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000067",
+    "campaign_id":"CMP-2026-000024",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-008_0019_24",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-04 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000068",
+    "campaign_id":"CMP-2026-000024",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-008_0019_24",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-04 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000069",
+    "campaign_id":"CMP-2026-000024",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-008_0019_24",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-04 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000070",
+    "campaign_id":"CMP-2026-000025",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0004_25",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-04 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000071",
+    "campaign_id":"CMP-2026-000025",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0004_25",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-04 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000072",
+    "campaign_id":"CMP-2026-000025",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-004_0004_25",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-04 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000073",
+    "campaign_id":"CMP-2026-000025",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0004_25",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-04 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000074",
+    "campaign_id":"CMP-2026-000026",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-003_0005_26",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-03 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000075",
+    "campaign_id":"CMP-2026-000026",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-003_0005_26",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-03 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000076",
+    "campaign_id":"CMP-2026-000026",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-003_0005_26",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-03 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000077",
+    "campaign_id":"CMP-2026-000026",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-003_0005_26",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-03 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000078",
+    "campaign_id":"CMP-2026-000027",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-007_0017_27",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-15 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000079",
+    "campaign_id":"CMP-2026-000027",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-007_0017_27",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-15 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000080",
+    "campaign_id":"CMP-2026-000028",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-007_0011_28",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000081",
+    "campaign_id":"CMP-2026-000028",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-007_0011_28",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000082",
+    "campaign_id":"CMP-2026-000028",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-007_0011_28",
+    "call_to_action":"Learn More",
+    "created_at":"2026-01-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000083",
+    "campaign_id":"CMP-2026-000028",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-007_0011_28",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000084",
+    "campaign_id":"CMP-2026-000029",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-004_0001_29",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-04 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000085",
+    "campaign_id":"CMP-2026-000029",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-004_0001_29",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-04 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000086",
+    "campaign_id":"CMP-2026-000029",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-004_0001_29",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-04 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000087",
+    "campaign_id":"CMP-2026-000030",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-008_0003_30",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-21 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000088",
+    "campaign_id":"CMP-2026-000030",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-008_0003_30",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-21 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000089",
+    "campaign_id":"CMP-2026-000030",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-008_0003_30",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-21 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000090",
+    "campaign_id":"CMP-2026-000031",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-004_0016_31",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000091",
+    "campaign_id":"CMP-2026-000031",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-004_0016_31",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000092",
+    "campaign_id":"CMP-2026-000031",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0016_31",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000093",
+    "campaign_id":"CMP-2026-000031",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-004_0016_31",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000094",
+    "campaign_id":"CMP-2026-000032",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-004_0016_32",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-31 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000095",
+    "campaign_id":"CMP-2026-000032",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0016_32",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-31 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000096",
+    "campaign_id":"CMP-2026-000033",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-006_0006_33",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-02-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000097",
+    "campaign_id":"CMP-2026-000033",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-006_0006_33",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000098",
+    "campaign_id":"CMP-2026-000033",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-006_0006_33",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000099",
+    "campaign_id":"CMP-2026-000034",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-001_0002_34",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000100",
+    "campaign_id":"CMP-2026-000034",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-001_0002_34",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000101",
+    "campaign_id":"CMP-2026-000034",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-001_0002_34",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000102",
+    "campaign_id":"CMP-2026-000034",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-001_0002_34",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000103",
+    "campaign_id":"CMP-2026-000035",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-004_0016_35",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-17 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000104",
+    "campaign_id":"CMP-2026-000035",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0016_35",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-17 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000105",
+    "campaign_id":"CMP-2026-000036",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-008_0016_36",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-24 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000106",
+    "campaign_id":"CMP-2026-000036",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-008_0016_36",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-24 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000107",
+    "campaign_id":"CMP-2026-000037",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-001_0020_37",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-29 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000108",
+    "campaign_id":"CMP-2026-000037",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-001_0020_37",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-29 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000109",
+    "campaign_id":"CMP-2026-000038",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-004_0013_38",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-07 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000110",
+    "campaign_id":"CMP-2026-000038",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0013_38",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-07 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000111",
+    "campaign_id":"CMP-2026-000038",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-004_0013_38",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-07 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000112",
+    "campaign_id":"CMP-2026-000038",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-004_0013_38",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-07 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000113",
+    "campaign_id":"CMP-2026-000039",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-007_0017_39",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-15 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000114",
+    "campaign_id":"CMP-2026-000039",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-007_0017_39",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-15 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000115",
+    "campaign_id":"CMP-2026-000039",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-007_0017_39",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-15 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000116",
+    "campaign_id":"CMP-2026-000040",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-002_0003_40",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-27 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000117",
+    "campaign_id":"CMP-2026-000040",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-002_0003_40",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-27 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000118",
+    "campaign_id":"CMP-2026-000040",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-002_0003_40",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-27 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000119",
+    "campaign_id":"CMP-2026-000041",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-004_0018_41",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000120",
+    "campaign_id":"CMP-2026-000041",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0018_41",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000121",
+    "campaign_id":"CMP-2026-000041",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0018_41",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000122",
+    "campaign_id":"CMP-2026-000042",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-003_0019_42",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-02-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000123",
+    "campaign_id":"CMP-2026-000042",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-003_0019_42",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000124",
+    "campaign_id":"CMP-2026-000043",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-005_0019_43",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000125",
+    "campaign_id":"CMP-2026-000043",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-005_0019_43",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000126",
+    "campaign_id":"CMP-2026-000043",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-005_0019_43",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-02-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000127",
+    "campaign_id":"CMP-2026-000043",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-005_0019_43",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-02-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000128",
+    "campaign_id":"CMP-2026-000044",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-005_0008_44",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000129",
+    "campaign_id":"CMP-2026-000044",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-005_0008_44",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000130",
+    "campaign_id":"CMP-2026-000045",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-006_0003_45",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-17 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000131",
+    "campaign_id":"CMP-2026-000045",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-006_0003_45",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-17 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000132",
+    "campaign_id":"CMP-2026-000045",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-006_0003_45",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-17 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000133",
+    "campaign_id":"CMP-2026-000045",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-006_0003_45",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-17 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000134",
+    "campaign_id":"CMP-2026-000046",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-007_0019_46",
+    "call_to_action":"Learn More",
+    "created_at":"2026-01-24 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000135",
+    "campaign_id":"CMP-2026-000046",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-007_0019_46",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-24 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000136",
+    "campaign_id":"CMP-2026-000046",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-007_0019_46",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-24 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000137",
+    "campaign_id":"CMP-2026-000046",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-007_0019_46",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-24 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000138",
+    "campaign_id":"CMP-2026-000047",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-007_0007_47",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000139",
+    "campaign_id":"CMP-2026-000047",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-007_0007_47",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000140",
+    "campaign_id":"CMP-2026-000047",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-007_0007_47",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000141",
+    "campaign_id":"CMP-2026-000047",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-007_0007_47",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000142",
+    "campaign_id":"CMP-2026-000048",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-002_0019_48",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-02-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000143",
+    "campaign_id":"CMP-2026-000048",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-002_0019_48",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-02-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000144",
+    "campaign_id":"CMP-2026-000048",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-002_0019_48",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000145",
+    "campaign_id":"CMP-2026-000048",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-002_0019_48",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000146",
+    "campaign_id":"CMP-2026-000049",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-006_0005_49",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000147",
+    "campaign_id":"CMP-2026-000049",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-006_0005_49",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000148",
+    "campaign_id":"CMP-2026-000050",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-008_0003_50",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000149",
+    "campaign_id":"CMP-2026-000050",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-008_0003_50",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000150",
+    "campaign_id":"CMP-2026-000050",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-008_0003_50",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000151",
+    "campaign_id":"CMP-2026-000051",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-008_0016_51",
+    "call_to_action":"Learn More",
+    "created_at":"2026-01-03 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000152",
+    "campaign_id":"CMP-2026-000051",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-008_0016_51",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-03 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000153",
+    "campaign_id":"CMP-2026-000052",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-006_0018_52",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-05 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000154",
+    "campaign_id":"CMP-2026-000052",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-006_0018_52",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-05 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000155",
+    "campaign_id":"CMP-2026-000052",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-006_0018_52",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-02-05 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000156",
+    "campaign_id":"CMP-2026-000052",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-006_0018_52",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-05 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000157",
+    "campaign_id":"CMP-2026-000053",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-005_0002_53",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000158",
+    "campaign_id":"CMP-2026-000053",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-005_0002_53",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000159",
+    "campaign_id":"CMP-2026-000053",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-005_0002_53",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000160",
+    "campaign_id":"CMP-2026-000053",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-005_0002_53",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-02-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000161",
+    "campaign_id":"CMP-2026-000054",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-003_0005_54",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000162",
+    "campaign_id":"CMP-2026-000054",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-003_0005_54",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000163",
+    "campaign_id":"CMP-2026-000054",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-003_0005_54",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000164",
+    "campaign_id":"CMP-2026-000054",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-003_0005_54",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-13 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000165",
+    "campaign_id":"CMP-2026-000055",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-002_0009_55",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-07 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000166",
+    "campaign_id":"CMP-2026-000055",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-002_0009_55",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-07 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000167",
+    "campaign_id":"CMP-2026-000056",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-003_0018_56",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-27 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000168",
+    "campaign_id":"CMP-2026-000056",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-003_0018_56",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-27 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000169",
+    "campaign_id":"CMP-2026-000056",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-003_0018_56",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-27 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000170",
+    "campaign_id":"CMP-2026-000056",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-003_0018_56",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-27 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000171",
+    "campaign_id":"CMP-2026-000057",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-006_0004_57",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-15 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000172",
+    "campaign_id":"CMP-2026-000057",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-006_0004_57",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-15 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000173",
+    "campaign_id":"CMP-2026-000057",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-006_0004_57",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-02-15 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000174",
+    "campaign_id":"CMP-2026-000058",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-005_0006_58",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-11 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000175",
+    "campaign_id":"CMP-2026-000058",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-005_0006_58",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-11 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000176",
+    "campaign_id":"CMP-2026-000059",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-001_0011_59",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-16 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000177",
+    "campaign_id":"CMP-2026-000059",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-001_0011_59",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-02-16 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000178",
+    "campaign_id":"CMP-2026-000059",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-001_0011_59",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-16 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000179",
+    "campaign_id":"CMP-2026-000060",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-006_0005_60",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-30 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000180",
+    "campaign_id":"CMP-2026-000060",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-006_0005_60",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-30 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000181",
+    "campaign_id":"CMP-2026-000060",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-006_0005_60",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-30 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000182",
+    "campaign_id":"CMP-2026-000060",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-006_0005_60",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-30 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000183",
+    "campaign_id":"CMP-2026-000061",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-006_0008_61",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000184",
+    "campaign_id":"CMP-2026-000061",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-006_0008_61",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000185",
+    "campaign_id":"CMP-2026-000061",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-006_0008_61",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000186",
+    "campaign_id":"CMP-2026-000062",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-001_0008_62",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000187",
+    "campaign_id":"CMP-2026-000062",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-001_0008_62",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000188",
+    "campaign_id":"CMP-2026-000063",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-005_0017_63",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000189",
+    "campaign_id":"CMP-2026-000063",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-005_0017_63",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000190",
+    "campaign_id":"CMP-2026-000063",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-005_0017_63",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000191",
+    "campaign_id":"CMP-2026-000064",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-001_0011_64",
+    "call_to_action":"Learn More",
+    "created_at":"2026-01-21 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000192",
+    "campaign_id":"CMP-2026-000064",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-001_0011_64",
+    "call_to_action":"Learn More",
+    "created_at":"2026-01-21 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000193",
+    "campaign_id":"CMP-2026-000064",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-001_0011_64",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-21 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000194",
+    "campaign_id":"CMP-2026-000065",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-004_0015_65",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-02-22 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000195",
+    "campaign_id":"CMP-2026-000065",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-004_0015_65",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-22 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000196",
+    "campaign_id":"CMP-2026-000066",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-001_0011_66",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-12 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000197",
+    "campaign_id":"CMP-2026-000066",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-001_0011_66",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-02-12 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000198",
+    "campaign_id":"CMP-2026-000066",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-001_0011_66",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-12 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000199",
+    "campaign_id":"CMP-2026-000066",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-001_0011_66",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-02-12 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000200",
+    "campaign_id":"CMP-2026-000067",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-005_0019_67",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-30 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000201",
+    "campaign_id":"CMP-2026-000067",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-005_0019_67",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-30 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000202",
+    "campaign_id":"CMP-2026-000067",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-005_0019_67",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-30 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000203",
+    "campaign_id":"CMP-2026-000068",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-007_0018_68",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000204",
+    "campaign_id":"CMP-2026-000068",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-007_0018_68",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000205",
+    "campaign_id":"CMP-2026-000068",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-007_0018_68",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000206",
+    "campaign_id":"CMP-2026-000068",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-007_0018_68",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000207",
+    "campaign_id":"CMP-2026-000069",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-008_0002_69",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-27 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000208",
+    "campaign_id":"CMP-2026-000069",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-008_0002_69",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-27 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000209",
+    "campaign_id":"CMP-2026-000070",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-002_0011_70",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-29 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000210",
+    "campaign_id":"CMP-2026-000070",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-002_0011_70",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-29 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000211",
+    "campaign_id":"CMP-2026-000070",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-002_0011_70",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-29 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000212",
+    "campaign_id":"CMP-2026-000071",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-008_0001_71",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000213",
+    "campaign_id":"CMP-2026-000071",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-008_0001_71",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000214",
+    "campaign_id":"CMP-2026-000071",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-008_0001_71",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000215",
+    "campaign_id":"CMP-2026-000071",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-008_0001_71",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-09 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000216",
+    "campaign_id":"CMP-2026-000072",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-004_0012_72",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-02-03 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000217",
+    "campaign_id":"CMP-2026-000072",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0012_72",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-02-03 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000218",
+    "campaign_id":"CMP-2026-000072",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0012_72",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-03 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000219",
+    "campaign_id":"CMP-2026-000073",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-008_0005_73",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-27 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000220",
+    "campaign_id":"CMP-2026-000073",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-008_0005_73",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-27 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000221",
+    "campaign_id":"CMP-2026-000074",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-003_0004_74",
+    "call_to_action":"Learn More",
+    "created_at":"2026-01-24 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000222",
+    "campaign_id":"CMP-2026-000074",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-003_0004_74",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-24 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000223",
+    "campaign_id":"CMP-2026-000075",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-004_0002_75",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000224",
+    "campaign_id":"CMP-2026-000075",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-004_0002_75",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000225",
+    "campaign_id":"CMP-2026-000075",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-004_0002_75",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000226",
+    "campaign_id":"CMP-2026-000075",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0002_75",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000227",
+    "campaign_id":"CMP-2026-000076",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-003_0006_76",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-07 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000228",
+    "campaign_id":"CMP-2026-000076",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-003_0006_76",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-07 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000229",
+    "campaign_id":"CMP-2026-000076",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-003_0006_76",
+    "call_to_action":"Learn More",
+    "created_at":"2026-01-07 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000230",
+    "campaign_id":"CMP-2026-000077",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-008_0003_77",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-05 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000231",
+    "campaign_id":"CMP-2026-000077",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-008_0003_77",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-05 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000232",
+    "campaign_id":"CMP-2026-000078",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-005_0020_78",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000233",
+    "campaign_id":"CMP-2026-000078",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-005_0020_78",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000234",
+    "campaign_id":"CMP-2026-000078",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-005_0020_78",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000235",
+    "campaign_id":"CMP-2026-000078",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-005_0020_78",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-20 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000236",
+    "campaign_id":"CMP-2026-000079",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-004_0019_79",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000237",
+    "campaign_id":"CMP-2026-000079",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-004_0019_79",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000238",
+    "campaign_id":"CMP-2026-000079",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-004_0019_79",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000239",
+    "campaign_id":"CMP-2026-000079",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-004_0019_79",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000240",
+    "campaign_id":"CMP-2026-000080",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-001_0002_80",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-24 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000241",
+    "campaign_id":"CMP-2026-000080",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-001_0002_80",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-24 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000242",
+    "campaign_id":"CMP-2026-000081",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-004_0011_81",
+    "call_to_action":"Learn More",
+    "created_at":"2026-02-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000243",
+    "campaign_id":"CMP-2026-000081",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-004_0011_81",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000244",
+    "campaign_id":"CMP-2026-000081",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-004_0011_81",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000245",
+    "campaign_id":"CMP-2026-000081",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-004_0011_81",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000246",
+    "campaign_id":"CMP-2026-000082",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-001_0018_82",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-12 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000247",
+    "campaign_id":"CMP-2026-000082",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-001_0018_82",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-12 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000248",
+    "campaign_id":"CMP-2026-000083",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-004_0017_83",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-16 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000249",
+    "campaign_id":"CMP-2026-000083",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-004_0017_83",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-16 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000250",
+    "campaign_id":"CMP-2026-000084",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-003_0016_84",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-18 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000251",
+    "campaign_id":"CMP-2026-000084",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-003_0016_84",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-18 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000252",
+    "campaign_id":"CMP-2026-000084",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-003_0016_84",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-18 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000253",
+    "campaign_id":"CMP-2026-000085",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-002_0011_85",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-03 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000254",
+    "campaign_id":"CMP-2026-000085",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-002_0011_85",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-03 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000255",
+    "campaign_id":"CMP-2026-000085",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-002_0011_85",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-03 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000256",
+    "campaign_id":"CMP-2026-000085",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-002_0011_85",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-03 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000257",
+    "campaign_id":"CMP-2026-000086",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-006_0012_86",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000258",
+    "campaign_id":"CMP-2026-000086",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-006_0012_86",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000259",
+    "campaign_id":"CMP-2026-000086",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-006_0012_86",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-26 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000260",
+    "campaign_id":"CMP-2026-000087",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-002_0008_87",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000261",
+    "campaign_id":"CMP-2026-000087",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-002_0008_87",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000262",
+    "campaign_id":"CMP-2026-000087",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-002_0008_87",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000263",
+    "campaign_id":"CMP-2026-000087",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-002_0008_87",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000264",
+    "campaign_id":"CMP-2026-000088",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0014_88",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000265",
+    "campaign_id":"CMP-2026-000088",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-004_0014_88",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000266",
+    "campaign_id":"CMP-2026-000088",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0014_88",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-02-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000267",
+    "campaign_id":"CMP-2026-000089",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-002_0013_89",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-11 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000268",
+    "campaign_id":"CMP-2026-000089",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-002_0013_89",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-11 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000269",
+    "campaign_id":"CMP-2026-000090",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-004_0009_90",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-11 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000270",
+    "campaign_id":"CMP-2026-000090",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-004_0009_90",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-11 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000271",
+    "campaign_id":"CMP-2026-000090",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0009_90",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-11 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000272",
+    "campaign_id":"CMP-2026-000090",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-004_0009_90",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-11 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000273",
+    "campaign_id":"CMP-2026-000091",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-004_0004_91",
+    "call_to_action":"Learn More",
+    "created_at":"2026-01-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000274",
+    "campaign_id":"CMP-2026-000091",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-004_0004_91",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000275",
+    "campaign_id":"CMP-2026-000091",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-004_0004_91",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000276",
+    "campaign_id":"CMP-2026-000091",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-004_0004_91",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000277",
+    "campaign_id":"CMP-2026-000092",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-005_0009_92",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-22 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000278",
+    "campaign_id":"CMP-2026-000092",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-005_0009_92",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-22 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000279",
+    "campaign_id":"CMP-2026-000092",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-005_0009_92",
+    "call_to_action":"Download Now",
+    "created_at":"2026-01-22 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000280",
+    "campaign_id":"CMP-2026-000093",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-007_0017_93",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-04 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000281",
+    "campaign_id":"CMP-2026-000093",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-007_0017_93",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-04 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000282",
+    "campaign_id":"CMP-2026-000094",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-003_0005_94",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-24 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000283",
+    "campaign_id":"CMP-2026-000094",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-003_0005_94",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-24 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000284",
+    "campaign_id":"CMP-2026-000094",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-003_0005_94",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-24 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000285",
+    "campaign_id":"CMP-2026-000095",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-004_0009_95",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000286",
+    "campaign_id":"CMP-2026-000095",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-004_0009_95",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000287",
+    "campaign_id":"CMP-2026-000095",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-004_0009_95",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-19 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000288",
+    "campaign_id":"CMP-2026-000096",
+    "asset_type":"Static Banner",
+    "headline":"Static Banner for Campaign_CHN-001_0008_96",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-22 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000289",
+    "campaign_id":"CMP-2026-000096",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-001_0008_96",
+    "call_to_action":"Download Now",
+    "created_at":"2026-02-22 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000290",
+    "campaign_id":"CMP-2026-000096",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-001_0008_96",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-02-22 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000291",
+    "campaign_id":"CMP-2026-000097",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-003_0017_97",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-03-16 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000292",
+    "campaign_id":"CMP-2026-000097",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-003_0017_97",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-03-16 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000293",
+    "campaign_id":"CMP-2026-000097",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-003_0017_97",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-03-16 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000294",
+    "campaign_id":"CMP-2026-000098",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-007_0019_98",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000295",
+    "campaign_id":"CMP-2026-000098",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-007_0019_98",
+    "call_to_action":"Book Demo",
+    "created_at":"2026-01-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000296",
+    "campaign_id":"CMP-2026-000098",
+    "asset_type":"Case Study",
+    "headline":"Case Study for Campaign_CHN-007_0019_98",
+    "call_to_action":"Contact Sales",
+    "created_at":"2026-01-14 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000297",
+    "campaign_id":"CMP-2026-000099",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-007_0013_99",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000298",
+    "campaign_id":"CMP-2026-000099",
+    "asset_type":"Text Ad",
+    "headline":"Text Ad for Campaign_CHN-007_0013_99",
+    "call_to_action":"Download Now",
+    "created_at":"2026-03-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000299",
+    "campaign_id":"CMP-2026-000099",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-007_0013_99",
+    "call_to_action":"Learn More",
+    "created_at":"2026-03-08 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000300",
+    "campaign_id":"CMP-2026-000100",
+    "asset_type":"Video",
+    "headline":"Video for Campaign_CHN-002_0015_100",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000301",
+    "campaign_id":"CMP-2026-000100",
+    "asset_type":"Whitepaper",
+    "headline":"Whitepaper for Campaign_CHN-002_0015_100",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-06 09:00:00"
+  },
+  {
+    "creative_id":"CRT-2026-000302",
+    "campaign_id":"CMP-2026-000100",
+    "asset_type":"Webinar",
+    "headline":"Webinar for Campaign_CHN-002_0015_100",
+    "call_to_action":"Start Free Trial",
+    "created_at":"2026-01-06 09:00:00"
+  }
+]

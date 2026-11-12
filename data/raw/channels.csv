@@ -1,0 +1,9 @@
+channel_id,channel_name,channel_type,is_paid,created_at
+CHN-001,Paid Search,Paid,True,2026-01-01 00:00:00
+CHN-002,Paid Social,Paid,True,2026-01-01 00:00:00
+CHN-003,Organic Search,Organic,False,2026-01-01 00:00:00
+CHN-004,Email,Outbound,False,2026-01-01 00:00:00
+CHN-005,Display,Paid,True,2026-01-01 00:00:00
+CHN-006,Events/Conferences,Outbound,True,2026-01-01 00:00:00
+CHN-007,Direct,Inbound,False,2026-01-01 00:00:00
+CHN-008,Referral,Inbound,False,2026-01-01 00:00:00

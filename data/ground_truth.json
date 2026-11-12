@@ -1,0 +1,146 @@
+[
+  {
+    "anomaly_id": "ANO-REV-DUP-0001",
+    "issue_type": "REVENUE_COUNTED_MORE_THAN_ONCE",
+    "entity": "Order",
+    "record_id": "ORD-2026-000079-DUP",
+    "related_parent_id": "OPP-2026-000291",
+    "description": "Duplicate order transaction created for opportunity OPP-2026-000291, inflating gross revenue by 25000.0.",
+    "expected_handling": "Deduplicate order by opportunity_id or discard duplicate order reference before attribution."
+  },
+  {
+    "anomaly_id": "ANO-REV-DUP-0002",
+    "issue_type": "REVENUE_COUNTED_MORE_THAN_ONCE",
+    "entity": "Order",
+    "record_id": "ORD-2026-000108-DUP",
+    "related_parent_id": "OPP-2026-000418",
+    "description": "Duplicate order transaction created for opportunity OPP-2026-000418, inflating gross revenue by 48000.0.",
+    "expected_handling": "Deduplicate order by opportunity_id or discard duplicate order reference before attribution."
+  },
+  {
+    "anomaly_id": "ANO-REV-DUP-0003",
+    "issue_type": "REVENUE_COUNTED_MORE_THAN_ONCE",
+    "entity": "Order",
+    "record_id": "ORD-2026-000010-DUP",
+    "related_parent_id": "OPP-2026-000033",
+    "description": "Duplicate order transaction created for opportunity OPP-2026-000033, inflating gross revenue by 12000.0.",
+    "expected_handling": "Deduplicate order by opportunity_id or discard duplicate order reference before attribution."
+  },
+  {
+    "anomaly_id": "ANO-REV-DUP-0004",
+    "issue_type": "REVENUE_COUNTED_MORE_THAN_ONCE",
+    "entity": "Order",
+    "record_id": "ORD-2026-000015-DUP",
+    "related_parent_id": "OPP-2026-000046",
+    "description": "Duplicate order transaction created for opportunity OPP-2026-000046, inflating gross revenue by 25000.0.",
+    "expected_handling": "Deduplicate order by opportunity_id or discard duplicate order reference before attribution."
+  },
+  {
+    "anomaly_id": "ANO-REV-DUP-0005",
+    "issue_type": "REVENUE_COUNTED_MORE_THAN_ONCE",
+    "entity": "Order",
+    "record_id": "ORD-2026-000073-DUP",
+    "related_parent_id": "OPP-2026-000256",
+    "description": "Duplicate order transaction created for opportunity OPP-2026-000256, inflating gross revenue by 12000.0.",
+    "expected_handling": "Deduplicate order by opportunity_id or discard duplicate order reference before attribution."
+  },
+  {
+    "anomaly_id": "ANO-POST-TOUCH-0006",
+    "issue_type": "TOUCHPOINT_AFTER_CONVERSION_ATTRIBUTED",
+    "entity": "Touchpoint",
+    "record_id": "TOUCH-CNT-2026-000438-000006",
+    "related_parent_id": "OPP-2026-000286",
+    "description": "Touchpoint TOUCH-CNT-2026-000438-000006 occurred at 2026-05-16 12:00:00 which is after opportunity OPP-2026-000286 closed at 2026-05-07 12:00:00.",
+    "expected_handling": "Filter out touchpoints where timestamp > opportunity.closed_at during attribution weighting."
+  },
+  {
+    "anomaly_id": "ANO-POST-TOUCH-0007",
+    "issue_type": "TOUCHPOINT_AFTER_CONVERSION_ATTRIBUTED",
+    "entity": "Touchpoint",
+    "record_id": "TOUCH-CNT-2026-001661-000005",
+    "related_parent_id": "OPP-2026-000061",
+    "description": "Touchpoint TOUCH-CNT-2026-001661-000005 occurred at 2026-08-09 14:00:00 which is after opportunity OPP-2026-000061 closed at 2026-07-30 14:00:00.",
+    "expected_handling": "Filter out touchpoints where timestamp > opportunity.closed_at during attribution weighting."
+  },
+  {
+    "anomaly_id": "ANO-POST-TOUCH-0008",
+    "issue_type": "TOUCHPOINT_AFTER_CONVERSION_ATTRIBUTED",
+    "entity": "Touchpoint",
+    "record_id": "TOUCH-CNT-2026-000775-000005",
+    "related_parent_id": "OPP-2026-000309",
+    "description": "Touchpoint TOUCH-CNT-2026-000775-000005 occurred at 2026-09-08 21:00:00 which is after opportunity OPP-2026-000309 closed at 2026-08-28 21:00:00.",
+    "expected_handling": "Filter out touchpoints where timestamp > opportunity.closed_at during attribution weighting."
+  },
+  {
+    "anomaly_id": "ANO-POST-TOUCH-0009",
+    "issue_type": "TOUCHPOINT_AFTER_CONVERSION_ATTRIBUTED",
+    "entity": "Touchpoint",
+    "record_id": "TOUCH-CNT-2026-001204-000007",
+    "related_parent_id": "OPP-2026-000308",
+    "description": "Touchpoint TOUCH-CNT-2026-001204-000007 occurred at 2026-05-06 06:00:00 which is after opportunity OPP-2026-000308 closed at 2026-04-17 06:00:00.",
+    "expected_handling": "Filter out touchpoints where timestamp > opportunity.closed_at during attribution weighting."
+  },
+  {
+    "anomaly_id": "ANO-POST-TOUCH-0010",
+    "issue_type": "TOUCHPOINT_AFTER_CONVERSION_ATTRIBUTED",
+    "entity": "Touchpoint",
+    "record_id": "TOUCH-CNT-2026-000481-000004",
+    "related_parent_id": "OPP-2026-000582",
+    "description": "Touchpoint TOUCH-CNT-2026-000481-000004 occurred at 2026-09-20 14:00:00 which is after opportunity OPP-2026-000582 closed at 2026-09-17 14:00:00.",
+    "expected_handling": "Filter out touchpoints where timestamp > opportunity.closed_at during attribution weighting."
+  },
+  {
+    "anomaly_id": "ANO-CURR-MISMATCH-0011",
+    "issue_type": "SPEND_CURRENCY_MISMATCH",
+    "entity": "CostRecord",
+    "record_id": "CST-2026-000385",
+    "related_parent_id": "CMP-2026-000087",
+    "description": "Cost record CST-2026-000385 recorded in GBP (2500.0) without automated FX normalization to USD reporting base.",
+    "expected_handling": "Convert spend_amount to USD using historical or configured exchange rate before computing campaign ROI."
+  },
+  {
+    "anomaly_id": "ANO-CURR-MISMATCH-0012",
+    "issue_type": "SPEND_CURRENCY_MISMATCH",
+    "entity": "CostRecord",
+    "record_id": "CST-2026-000088",
+    "related_parent_id": "CMP-2026-000020",
+    "description": "Cost record CST-2026-000088 recorded in GBP (6250.0) without automated FX normalization to USD reporting base.",
+    "expected_handling": "Convert spend_amount to USD using historical or configured exchange rate before computing campaign ROI."
+  },
+  {
+    "anomaly_id": "ANO-CURR-MISMATCH-0013",
+    "issue_type": "SPEND_CURRENCY_MISMATCH",
+    "entity": "CostRecord",
+    "record_id": "CST-2026-000355",
+    "related_parent_id": "CMP-2026-000081",
+    "description": "Cost record CST-2026-000355 recorded in GBP (3333.33) without automated FX normalization to USD reporting base.",
+    "expected_handling": "Convert spend_amount to USD using historical or configured exchange rate before computing campaign ROI."
+  },
+  {
+    "anomaly_id": "ANO-CURR-MISMATCH-0014",
+    "issue_type": "SPEND_CURRENCY_MISMATCH",
+    "entity": "CostRecord",
+    "record_id": "CST-2026-000078",
+    "related_parent_id": "CMP-2026-000017",
+    "description": "Cost record CST-2026-000078 recorded in GBP (1250.0) without automated FX normalization to USD reporting base.",
+    "expected_handling": "Convert spend_amount to USD using historical or configured exchange rate before computing campaign ROI."
+  },
+  {
+    "anomaly_id": "ANO-OMITTED-COST-0015",
+    "issue_type": "CAMPAIGN_COSTS_OMITTED",
+    "entity": "CostRecord",
+    "record_id": "CAMP-COST-OMITTED-CMP-2026-000054",
+    "related_parent_id": "CMP-2026-000054",
+    "description": "Campaign CMP-2026-000054 has valid touchpoints and pipeline generation but all cost records (5 dropped) were omitted.",
+    "expected_handling": "Flag campaign as having missing cost data (Cost = $0.00 / NaN) and alert operator before ROI calculation."
+  },
+  {
+    "anomaly_id": "ANO-ANON-LINK-0016",
+    "issue_type": "ANONYMOUS_SESSION_LINKED_WITHOUT_EVIDENCE",
+    "entity": "WebSession",
+    "record_id": "SES-2026-000002",
+    "related_parent_id": "CNT-2026-000589",
+    "description": "WebSession SES-2026-000002 was forcefully stitched to Contact CNT-2026-000589 with zero cookie correlation or form submission event.",
+    "expected_handling": "Validate identity graph edges against verified authentication or cookie-binding events; reject unsubstantiated links."
+  }
+]

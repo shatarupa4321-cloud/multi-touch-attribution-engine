@@ -1,0 +1,58 @@
+[
+  {
+    "channel_id":"CHN-001",
+    "channel_name":"Paid Search",
+    "channel_type":"Paid",
+    "is_paid":true,
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "channel_id":"CHN-002",
+    "channel_name":"Paid Social",
+    "channel_type":"Paid",
+    "is_paid":true,
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "channel_id":"CHN-003",
+    "channel_name":"Organic Search",
+    "channel_type":"Organic",
+    "is_paid":false,
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "channel_id":"CHN-004",
+    "channel_name":"Email",
+    "channel_type":"Outbound",
+    "is_paid":false,
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "channel_id":"CHN-005",
+    "channel_name":"Display",
+    "channel_type":"Paid",
+    "is_paid":true,
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "channel_id":"CHN-006",
+    "channel_name":"Events\/Conferences",
+    "channel_type":"Outbound",
+    "is_paid":true,
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "channel_id":"CHN-007",
+    "channel_name":"Direct",
+    "channel_type":"Inbound",
+    "is_paid":false,
+    "created_at":"2026-01-01 00:00:00"
+  },
+  {
+    "channel_id":"CHN-008",
+    "channel_name":"Referral",
+    "channel_type":"Inbound",
+    "is_paid":false,
+    "created_at":"2026-01-01 00:00:00"
+  }
+]

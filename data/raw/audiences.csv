@@ -1,0 +1,21 @@
+audience_id,audience_name,industry,tier,target_persona,created_at
+AUD-2026-000001,Technology Enterprise CTO/VP Eng,Technology,Enterprise,CTO/VP Eng,2026-01-01 00:00:00
+AUD-2026-000002,Healthcare Mid-Market CMO/VP Mktg,Healthcare,Mid-Market,CMO/VP Mktg,2026-01-01 00:00:00
+AUD-2026-000003,Financial Services SMB CFO/Finance,Financial Services,SMB,CFO/Finance,2026-01-01 00:00:00
+AUD-2026-000004,Manufacturing Enterprise Operations Lead,Manufacturing,Enterprise,Operations Lead,2026-01-01 00:00:00
+AUD-2026-000005,Retail Mid-Market Security Lead,Retail,Mid-Market,Security Lead,2026-01-01 00:00:00
+AUD-2026-000006,Education SMB CTO/VP Eng,Education,SMB,CTO/VP Eng,2026-01-01 00:00:00
+AUD-2026-000007,Technology Enterprise CMO/VP Mktg,Technology,Enterprise,CMO/VP Mktg,2026-01-01 00:00:00
+AUD-2026-000008,Healthcare Mid-Market CFO/Finance,Healthcare,Mid-Market,CFO/Finance,2026-01-01 00:00:00
+AUD-2026-000009,Financial Services SMB Operations Lead,Financial Services,SMB,Operations Lead,2026-01-01 00:00:00
+AUD-2026-000010,Manufacturing Enterprise Security Lead,Manufacturing,Enterprise,Security Lead,2026-01-01 00:00:00
+AUD-2026-000011,Retail Mid-Market CTO/VP Eng,Retail,Mid-Market,CTO/VP Eng,2026-01-01 00:00:00
+AUD-2026-000012,Education SMB CMO/VP Mktg,Education,SMB,CMO/VP Mktg,2026-01-01 00:00:00
+AUD-2026-000013,Technology Enterprise CFO/Finance,Technology,Enterprise,CFO/Finance,2026-01-01 00:00:00
+AUD-2026-000014,Healthcare Mid-Market Operations Lead,Healthcare,Mid-Market,Operations Lead,2026-01-01 00:00:00
+AUD-2026-000015,Financial Services SMB Security Lead,Financial Services,SMB,Security Lead,2026-01-01 00:00:00
+AUD-2026-000016,Manufacturing Enterprise CTO/VP Eng,Manufacturing,Enterprise,CTO/VP Eng,2026-01-01 00:00:00
+AUD-2026-000017,Retail Mid-Market CMO/VP Mktg,Retail,Mid-Market,CMO/VP Mktg,2026-01-01 00:00:00
+AUD-2026-000018,Education SMB CFO/Finance,Education,SMB,CFO/Finance,2026-01-01 00:00:00
+AUD-2026-000019,Technology Enterprise Operations Lead,Technology,Enterprise,Operations Lead,2026-01-01 00:00:00
+AUD-2026-000020,Healthcare Mid-Market Security Lead,Healthcare,Mid-Market,Security Lead,2026-01-01 00:00:00

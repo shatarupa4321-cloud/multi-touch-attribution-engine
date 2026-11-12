@@ -1,0 +1,154 @@
+{
+  "generated_at": "2026-11-12T15:07:04.122801",
+  "seed": 20261022,
+  "scale": "medium",
+  "tables": {
+    "channels": {
+      "row_count": 8,
+      "csv_file": "raw/channels.csv",
+      "json_file": "raw/channels.json",
+      "sha256": "462639103d888070789df74a8b8a828dd87b99a17b036fd47597c50721845777"
+    },
+    "audiences": {
+      "row_count": 20,
+      "csv_file": "raw/audiences.csv",
+      "json_file": "raw/audiences.json",
+      "sha256": "117be46e48adfafffffe745136d460ffe10c5b88a376e96f4da7e27927559a58"
+    },
+    "campaigns": {
+      "row_count": 100,
+      "csv_file": "raw/campaigns.csv",
+      "json_file": "raw/campaigns.json",
+      "sha256": "8744784011d3fe392fffe1d2c85e4ff8a3a5c2654557cec1bb2b386b31b1d8f7"
+    },
+    "creatives": {
+      "row_count": 302,
+      "csv_file": "raw/creatives.csv",
+      "json_file": "raw/creatives.json",
+      "sha256": "06e556bfbd437fead310990a99b25042f6701f9c0d9c1be19de242813126ad3e"
+    },
+    "contacts": {
+      "row_count": 2000,
+      "csv_file": "raw/contacts.csv",
+      "json_file": "raw/contacts.json",
+      "sha256": "97db298f39f204bb57c45a3dc881715878e685a2650cd9177378fc50ecc5612a"
+    },
+    "web_sessions": {
+      "row_count": 10000,
+      "csv_file": "raw/web_sessions.csv",
+      "json_file": "raw/web_sessions.json",
+      "sha256": "522a7e6470ba0d060460aa1e75c54543025502b58c36cd4e248b8e3faa27aec4"
+    },
+    "touchpoints": {
+      "row_count": 10000,
+      "csv_file": "raw/touchpoints.csv",
+      "json_file": "raw/touchpoints.json",
+      "sha256": "57c3e09e83c3088ca73bbde3d0b2e6c96ef725221be52633ea386882920ed397"
+    },
+    "leads": {
+      "row_count": 1801,
+      "csv_file": "raw/leads.csv",
+      "json_file": "raw/leads.json",
+      "sha256": "8e6c1f7b157044a6668e330556fa0eeab2e553eaed9891a78a197b58ed5f5d29"
+    },
+    "opportunities": {
+      "row_count": 600,
+      "csv_file": "raw/opportunities.csv",
+      "json_file": "raw/opportunities.json",
+      "sha256": "ff31419576184979e26396411aa515eecb114f478094daf34c20b9a48b2e2c21"
+    },
+    "orders": {
+      "row_count": 156,
+      "csv_file": "raw/orders.csv",
+      "json_file": "raw/orders.json",
+      "sha256": "923a9cb7ed719487cbcd7ef17e967d6a34a41fe8cca4e2f0660caa7171e03f62"
+    },
+    "cost_records": {
+      "row_count": 445,
+      "csv_file": "raw/cost_records.csv",
+      "json_file": "raw/cost_records.json",
+      "sha256": "a1c3ee6a84112050c5bff2b708f92cad7b7599c562fb2d285d6548e7d0b67476"
+    },
+    "attribution_results": {
+      "row_count": 3190,
+      "csv_file": "raw/attribution_results.csv",
+      "json_file": "raw/attribution_results.json",
+      "sha256": "20dc5d4b88f87b6fc8cb838565699286ad5b5dd073b8025200d3520c10279083"
+    }
+  },
+  "validation": {
+    "is_valid": true,
+    "error_count": 0,
+    "warning_count": 2,
+    "errors": [],
+    "warnings": [
+      {
+        "suite": "EnumConstraint",
+        "table": "cost_records",
+        "field": "cost_category",
+        "message": "Values {'Media Spend (Unconverted Foreign Currency)'} not in allowed enums: {'Software Tool', 'Media Spend', 'Production', 'Sponsorship', 'Agency Fee'}"
+      },
+      {
+        "suite": "CardinalityConstraints",
+        "table": "orders",
+        "message": "5 opportunities have multiple order records (Anomaly #1 injected)."
+      }
+    ],
+    "table_stats": {
+      "channels": {
+        "rows": 8,
+        "unique_pks": 8
+      },
+      "audiences": {
+        "rows": 20,
+        "unique_pks": 20
+      },
+      "campaigns": {
+        "rows": 100,
+        "unique_pks": 100
+      },
+      "creatives": {
+        "rows": 302,
+        "unique_pks": 302
+      },
+      "contacts": {
+        "rows": 2000,
+        "unique_pks": 2000
+      },
+      "web_sessions": {
+        "rows": 10000,
+        "unique_pks": 10000
+      },
+      "touchpoints": {
+        "rows": 10000,
+        "unique_pks": 10000
+      },
+      "leads": {
+        "rows": 1801,
+        "unique_pks": 1801
+      },
+      "opportunities": {
+        "rows": 600,
+        "unique_pks": 600
+      },
+      "orders": {
+        "rows": 156,
+        "unique_pks": 156
+      },
+      "cost_records": {
+        "rows": 445,
+        "unique_pks": 445
+      }
+    },
+    "checks_run": [
+      "PrimaryKeyUniqueness",
+      "ForeignKeyIntegrity",
+      "EnumConstraint",
+      "DateOrdering",
+      "ArithmeticBounds",
+      "LifecycleTransitions",
+      "DuplicateChecks",
+      "CardinalityConstraints"
+    ]
+  }
+}
