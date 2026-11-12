@@ -1,6 +1,26 @@
 # Multi-Touch Attribution & Marketing ROI Engine
 
-An end-to-end 3-Tier application that joins campaign touches, web events, leads, opportunities, and revenue to compare attribution models and ROI.
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-3.0-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.49-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Plotly](https://img.shields.io/badge/Plotly-6.9-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-3-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![pytest](https://img.shields.io/badge/pytest-passed-success?logo=pytest&logoColor=white)](https://pytest.org/)
+
+An enterprise-grade 3-Tier Multi-Touch Attribution and Marketing ROI platform. Joins campaign touches, web events, qualified leads, sales opportunities, and closed revenue across 5 attribution models with automated anomaly detection, strict accounting reconciliation, and interactive visual analytics.
+
+---
+
+## 🖥️ Interactive Dashboard Preview
+
+![Multi-Touch Attribution Dashboard](assets/dashboard_preview.svg)
+
+---
+
+## 🏷️ Repository Metadata & Topics
+
+- **Description**: *Deterministic 3-Tier Multi-Touch Attribution & Marketing ROI Engine joining web events, touchpoints, leads, and revenue across 5 attribution models.*
+- **GitHub Topics**: `python`, `flask`, `streamlit`, `marketing-attribution`, `data-analytics`, `roi-calculator`, `multi-touch-attribution`, `data-science`
 
 ---
 
@@ -18,11 +38,11 @@ The solution implements an enterprise **3-Tier Architecture**:
    - **Identity Resolution & Verification**: Validates `identity_verified` and `identity_evidence_type` (rejects `NONE` evidence), verifies contact existence, and exposes missing high-intent identity links.
    - **Confirmed Duplicate Order Protection**: Preserves legitimate multiple orders on opportunities while rejecting confirmed duplicate transactions.
    - **5 Attribution Models**:
-     - First-Touch (100% acquisition credit)
-     - Last-Touch (100% conversion credit)
-     - Linear (Uniform $1/N$ credit)
-     - U-Shaped (Position-based: 40% First, 40% Last, 20% Middle)
-     - Time-Decay (Exponential decay with 7-day half life)
+     - **First-Touch** (100% acquisition credit)
+     - **Last-Touch** (100% conversion credit)
+     - **Linear** (Uniform $1/N$ credit)
+     - **U-Shaped** (Position-based: 40% First, 40% Last, 20% Middle)
+     - **Time-Decay** (Exponential decay with 7-day half life)
    - **Financial Reconciliation & FX Normalizer**:
      - Normalizes EUR/GBP spend & revenue cleanly; only flags genuine unconverted currency anomalies.
      - Preserves missing costs as `NaN` and marks ROI as `INCOMPLETE` (does not replace missing costs with 0).
@@ -40,7 +60,17 @@ The solution implements an enterprise **3-Tier Architecture**:
 
 ## 🚀 Quickstart Guide
 
-### 1. Run the Pipeline (CLI)
+### 1. Install Dependencies
+
+Install all required packages from `requirements.txt`:
+
+```powershell
+pip install -r requirements.txt
+```
+
+---
+
+### 2. Run the Pipeline (CLI)
 
 ```powershell
 # Starter scale (fast execution for rapid verification)
@@ -65,7 +95,7 @@ Outputs generated:
 
 ---
 
-### 2. Launch the Interactive Dashboard
+### 3. Launch the Interactive Dashboard
 
 ```powershell
 streamlit run src/app/dashboard.py
@@ -81,7 +111,7 @@ Features available in the dashboard:
 
 ---
 
-### 3. Launch the REST API
+### 4. Launch the REST API
 
 ```powershell
 python src/app/api.py
@@ -98,8 +128,53 @@ Available endpoints:
 
 ---
 
-### 4. Run the Automated Test Suite
+### 5. Run the Automated Test Suite
 
 ```powershell
 python -m pytest tests/ -v
+```
+
+---
+
+## 📁 Repository Structure
+
+```
+.
+├── assets/
+│   └── dashboard_preview.svg # Interactive dashboard preview image
+├── data/
+│   ├── raw/                  # Generated CSV & JSON datasets
+│   ├── attribution.db        # SQLite database
+│   ├── ground_truth.json     # Ground truth anomaly registry
+│   ├── ground_truth.csv      # Ground truth table
+│   ├── seed_data.json        # Consolidated JSON seed dump
+│   ├── seed_data.sql         # Full SQL DDL & insert dump
+│   └── source_manifest.json  # Checksums & run metadata
+├── docs/
+│   ├── ARCHITECTURE.md       # 3-Tier Architecture document
+│   ├── DATA_DICTIONARY.md    # Data dictionary & Mermaid ERD
+│   └── VALIDATION_REPORT.md  # Relational & Anomaly Scorecard
+├── src/
+│   ├── config.py             # Constants, seeds, scale definitions, FX rates
+│   ├── generator/
+│   │   ├── data_dictionary.py# Schema metadata for all 12 entities
+│   │   ├── synthetic_gen.py  # Deterministic data generator
+│   │   ├── anomalies.py      # Labelled edge-case injector
+│   │   ├── validator.py      # Schema & integrity validator
+│   │   └── exporter.py       # Exporter for CSV, SQL, SQLite & JSON
+│   ├── engine/
+│   │   ├── identity_graph.py # Customer journey stitcher & identity verifier
+│   │   ├── attribution.py    # 5 multi-touch attribution models
+│   │   ├── roi_calculator.py # FX normalization & ROI reconciler
+│   │   └── audit_tracker.py  # High-precision audit logger & evaluator
+│   └── app/
+│       ├── api.py            # Flask REST API
+│       └── dashboard.py      # Streamlit interactive application
+├── tests/
+│   ├── test_api.py           # REST API endpoints test suite
+│   ├── test_attribution.py   # Attribution weights & reconciliation tests
+│   └── test_generator.py     # Seed reproducibility & schema tests
+├── requirements.txt          # Python dependencies for pip install
+├── run_pipeline.py           # CLI orchestrator
+└── README.md                 # Project documentation
 ```

@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" width="1200" height="680">
+  <defs>
+    <style>
+      .bg { fill: #0e1117; }
+      .sidebar { fill: #161b22; }
+      .card { fill: #1e2530; rx: 8px; }
+      .card-border { stroke: #30363d; stroke-width: 1; }
+      .text-white { fill: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .text-muted { fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .text-blue { fill: #58a6ff; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .text-green { fill: #3fb950; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .metric-val { font-size: 22px; font-weight: 700; fill: #ffffff; }
+      .metric-lbl { font-size: 12px; fill: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; }
+    </style>
+  </defs>
+
+  <!-- Browser Frame -->
+  <rect class="bg" width="1200" height="680" rx="10"/>
+  <rect fill="#161b22" width="1200" height="40" rx="10"/>
+  <rect fill="#161b22" width="1200" height="10" y="30"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="20" r="6" fill="#27c93f"/>
+  <rect fill="#0e1117" x="120" y="8" width="600" height="24" rx="6"/>
+  <text x="140" y="24" class="text-muted" font-size="12">http://localhost:8501 — Multi-Touch Attribution &amp; ROI Engine</text>
+
+  <!-- Sidebar -->
+  <rect class="sidebar" x="0" y="40" width="260" height="640"/>
+  <text x="24" y="85" class="text-white" font-size="18" font-weight="700">🎯 Attribution Engine</text>
+  <text x="24" y="105" class="text-muted" font-size="12">Deterministic Multi-Touch &amp; ROI</text>
+  <line x1="24" y1="125" x2="236" y2="125" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Sidebar Nav items -->
+  <rect fill="#1f6feb" fill-opacity="0.2" x="16" y="140" width="228" height="34" rx="6"/>
+  <circle cx="32" cy="157" r="4" fill="#58a6ff"/>
+  <text x="46" y="162" class="text-white" font-size="13" font-weight="600">📊 Executive Overview</text>
+
+  <text x="46" y="202" class="text-muted" font-size="13">⚖️ Model Comparison</text>
+  <text x="46" y="242" class="text-muted" font-size="13">📈 Campaign &amp; Channel ROI</text>
+  <text x="46" y="282" class="text-muted" font-size="13">🧭 Customer Journey Tracer</text>
+  <text x="46" y="322" class="text-muted" font-size="13">🔗 Identity Verification</text>
+  <text x="46" y="362" class="text-muted" font-size="13">🛡️ Anomaly Audit Console</text>
+
+  <rect fill="#21262d" x="16" y="590" width="228" height="60" rx="6"/>
+  <text x="28" y="612" class="text-green" font-size="12" font-weight="600">● Pipeline Active (Medium Scale)</text>
+  <text x="28" y="632" class="text-muted" font-size="11">Seed: 20261022 | DB: SQLite Verified</text>
+
+  <!-- Main Content Area -->
+  <text x="290" y="85" class="text-white" font-size="22" font-weight="700">📊 Executive Attribution &amp; Performance Overview</text>
+  <text x="290" y="110" class="text-muted" font-size="13">Reconciles 10,000 touchpoints, web events, leads, and closed revenue across 5 attribution models.</text>
+
+  <!-- 5 Metric Cards -->
+  <!-- Card 1 -->
+  <g transform="translate(290, 130)">
+    <rect class="card card-border" width="168" height="85"/>
+    <rect fill="#58a6ff" width="4" height="85" rx="2"/>
+    <text x="16" y="28" class="metric-lbl">Total Pipeline</text>
+    <text x="16" y="58" class="metric-val">$16.56M</text>
+    <text x="16" y="74" class="text-green" font-size="10">600 Opportunities</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(470, 130)">
+    <rect class="card card-border" width="168" height="85"/>
+    <rect fill="#3fb950" width="4" height="85" rx="2"/>
+    <text x="16" y="28" class="metric-lbl">Closed Won Rev</text>
+    <text x="16" y="58" class="metric-val">$16.56M</text>
+    <text x="16" y="74" class="text-green" font-size="10">100% Reconciled</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(650, 130)">
+    <rect class="card card-border" width="168" height="85"/>
+    <rect fill="#bc8cff" width="4" height="85" rx="2"/>
+    <text x="16" y="28" class="metric-lbl">Marketing Spend</text>
+    <text x="16" y="58" class="metric-val">$7.75M</text>
+    <text x="16" y="74" class="text-muted" font-size="10">Normalized to USD</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g transform="translate(830, 130)">
+    <rect class="card card-border" width="168" height="85"/>
+    <rect fill="#f0883e" width="4" height="85" rx="2"/>
+    <text x="16" y="28" class="metric-lbl">Blended ROAS</text>
+    <text x="16" y="58" class="metric-val">2.14x</text>
+    <text x="16" y="74" class="text-green" font-size="10">+114% Net ROI</text>
+  </g>
+
+  <!-- Card 5 -->
+  <g transform="translate(1010, 130)">
+    <rect class="card card-border" width="165" height="85"/>
+    <rect fill="#39c5cf" width="4" height="85" rx="2"/>
+    <text x="16" y="28" class="metric-lbl">Touchpoints</text>
+    <text x="16" y="58" class="metric-val">10,000</text>
+    <text x="16" y="74" class="text-muted" font-size="10">2,000 Contacts</text>
+  </g>
+
+  <!-- Chart 1: Attribution Model Comparison Bar Chart -->
+  <g transform="translate(290, 235)">
+    <rect class="card card-border" width="550" height="280"/>
+    <text x="20" y="30" class="text-white" font-size="15" font-weight="600">Attributed Revenue by Channel Across Models ($ USD)</text>
+    
+    <!-- Legend -->
+    <rect fill="#58a6ff" x="20" y="45" width="10" height="10" rx="2"/>
+    <text x="35" y="54" class="text-muted" font-size="11">First-Touch</text>
+    <rect fill="#f0883e" x="110" y="45" width="10" height="10" rx="2"/>
+    <text x="125" y="54" class="text-muted" font-size="11">Last-Touch</text>
+    <rect fill="#3fb950" x="195" y="45" width="10" height="10" rx="2"/>
+    <text x="210" y="54" class="text-muted" font-size="11">Linear</text>
+    <rect fill="#bc8cff" x="260" y="45" width="10" height="10" rx="2"/>
+    <text x="275" y="54" class="text-muted" font-size="11">U-Shaped</text>
+    <rect fill="#39c5cf" x="340" y="45" width="10" height="10" rx="2"/>
+    <text x="355" y="54" class="text-muted" font-size="11">Time-Decay</text>
+
+    <!-- Bars for Channels -->
+    <!-- Paid Search -->
+    <text x="30" y="245" class="text-muted" font-size="11">Paid Search</text>
+    <rect fill="#58a6ff" x="30" y="100" width="12" height="130" rx="2"/>
+    <rect fill="#f0883e" x="44" y="140" width="12" height="90" rx="2"/>
+    <rect fill="#3fb950" x="58" y="120" width="12" height="110" rx="2"/>
+    <rect fill="#bc8cff" x="72" y="110" width="12" height="120" rx="2"/>
+    <rect fill="#39c5cf" x="86" y="125" width="12" height="105" rx="2"/>
+
+    <!-- Paid Social -->
+    <text x="140" y="245" class="text-muted" font-size="11">Paid Social</text>
+    <rect fill="#58a6ff" x="140" y="110" width="12" height="120" rx="2"/>
+    <rect fill="#f0883e" x="154" y="150" width="12" height="80" rx="2"/>
+    <rect fill="#3fb950" x="168" y="130" width="12" height="100" rx="2"/>
+    <rect fill="#bc8cff" x="182" y="125" width="12" height="105" rx="2"/>
+    <rect fill="#39c5cf" x="196" y="135" width="12" height="95" rx="2"/>
+
+    <!-- Email -->
+    <text x="260" y="245" class="text-muted" font-size="11">Email</text>
+    <rect fill="#58a6ff" x="250" y="160" width="12" height="70" rx="2"/>
+    <rect fill="#f0883e" x="264" y="90" width="12" height="140" rx="2"/>
+    <rect fill="#3fb950" x="278" y="120" width="12" height="110" rx="2"/>
+    <rect fill="#bc8cff" x="292" y="105" width="12" height="125" rx="2"/>
+    <rect fill="#39c5cf" x="306" y="95" width="12" height="135" rx="2"/>
+
+    <!-- Events -->
+    <text x="360" y="245" class="text-muted" font-size="11">Events</text>
+    <rect fill="#58a6ff" x="350" y="130" width="12" height="100" rx="2"/>
+    <rect fill="#f0883e" x="364" y="120" width="12" height="110" rx="2"/>
+    <rect fill="#3fb950" x="378" y="115" width="12" height="115" rx="2"/>
+    <rect fill="#bc8cff" x="392" y="110" width="12" height="120" rx="2"/>
+    <rect fill="#39c5cf" x="406" y="118" width="12" height="112" rx="2"/>
+
+    <!-- Organic Search -->
+    <text x="450" y="245" class="text-muted" font-size="11">Organic</text>
+    <rect fill="#58a6ff" x="450" y="115" width="12" height="115" rx="2"/>
+    <rect fill="#f0883e" x="464" y="145" width="12" height="85" rx="2"/>
+    <rect fill="#3fb950" x="478" y="130" width="12" height="100" rx="2"/>
+    <rect fill="#bc8cff" x="492" y="125" width="12" height="105" rx="2"/>
+    <rect fill="#39c5cf" x="506" y="135" width="12" height="95" rx="2"/>
+
+    <line x1="20" y1="230" x2="530" y2="230" stroke="#30363d" stroke-width="1"/>
+  </g>
+
+  <!-- Chart 2: Pipeline Stages & ROI Matrix -->
+  <g transform="translate(860, 235)">
+    <rect class="card card-border" width="315" height="280"/>
+    <text x="20" y="30" class="text-white" font-size="15" font-weight="600">Pipeline Stages &amp; Win Rate</text>
+    
+    <circle cx="157" cy="125" r="55" fill="none" stroke="#21262d" stroke-width="22"/>
+    <circle cx="157" cy="125" r="55" fill="none" stroke="#3fb950" stroke-width="22" stroke-dasharray="86 260" stroke-dashoffset="0"/>
+    <circle cx="157" cy="125" r="55" fill="none" stroke="#58a6ff" stroke-width="22" stroke-dasharray="52 294" stroke-dashoffset="-86"/>
+    <circle cx="157" cy="125" r="55" fill="none" stroke="#bc8cff" stroke-width="22" stroke-dasharray="52 294" stroke-dashoffset="-138"/>
+    <circle cx="157" cy="125" r="55" fill="none" stroke="#f0883e" stroke-width="22" stroke-dasharray="52 294" stroke-dashoffset="-190"/>
+    <circle cx="157" cy="125" r="55" fill="none" stroke="#da3633" stroke-width="22" stroke-dasharray="52 294" stroke-dashoffset="-242"/>
+
+    <text x="157" y="125" text-anchor="middle" class="metric-val" font-size="18">24.5%</text>
+    <text x="157" y="142" text-anchor="middle" class="text-muted" font-size="10">WIN RATE</text>
+
+    <!-- Legend -->
+    <text x="24" y="215" class="text-white" font-size="11">● Closed Won: 147 ($16.56M)</text>
+    <text x="24" y="233" class="text-muted" font-size="11">● Negotiation / Proposal: 180</text>
+    <text x="24" y="251" class="text-muted" font-size="11">● Discovery / Validation: 185</text>
+    <text x="24" y="269" class="text-muted" font-size="11">● Closed Lost: 88</text>
+  </g>
+
+  <!-- Bottom Panel: Anomaly Audit & Traceability Bar -->
+  <g transform="translate(290, 535)">
+    <rect class="card card-border" width="885" height="115"/>
+    <text x="20" y="28" class="text-white" font-size="14" font-weight="700">🛡️ Anomaly Audit &amp; System Traceability Console</text>
+    
+    <rect fill="#238636" fill-opacity="0.2" x="20" y="45" width="130" height="50" rx="6"/>
+    <text x="32" y="65" class="text-green" font-size="11" font-weight="600">Coverage</text>
+    <text x="32" y="85" class="text-green" font-size="16" font-weight="700">100.0% (5/5)</text>
+
+    <rect fill="#1f6feb" fill-opacity="0.2" x="160" y="45" width="130" height="50" rx="6"/>
+    <text x="172" y="65" class="text-blue" font-size="11" font-weight="600">Precision</text>
+    <text x="172" y="85" class="text-blue" font-size="16" font-weight="700">100.0%</text>
+
+    <rect fill="#8957e5" fill-opacity="0.2" x="300" y="45" width="130" height="50" rx="6"/>
+    <text x="312" y="65" class="text-white" font-size="11" font-weight="600">Recall</text>
+    <text x="312" y="85" class="text-white" font-size="16" font-weight="700">100.0%</text>
+
+    <rect fill="#21262d" x="440" y="45" width="130" height="50" rx="6"/>
+    <text x="452" y="65" class="text-muted" font-size="11" font-weight="600">F1-Score</text>
+    <text x="452" y="85" class="text-white" font-size="16" font-weight="700">1.0000</text>
+
+    <rect fill="#21262d" x="580" y="45" width="285" height="50" rx="6"/>
+    <text x="592" y="65" class="text-green" font-size="11" font-weight="600">Accounting Invariant Reconciled</text>
+    <text x="592" y="84" class="text-white" font-size="12">Total Attr Rev == Closed Won ($16.56M)</text>
+  </g>
+</svg>
